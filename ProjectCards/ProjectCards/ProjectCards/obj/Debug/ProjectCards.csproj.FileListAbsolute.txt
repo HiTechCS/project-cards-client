@@ -1,0 +1,16 @@
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\ProjectCards.dll
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\ProjectCards.pdb
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\Xamarin.Forms.Core.dll
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\Xamarin.Forms.Platform.dll
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\Xamarin.Forms.Core.xml
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\obj\Debug\ProjectCards.csprojResolveAssemblyReference.cache
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\obj\Debug\ProjectCards.dll
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\obj\Debug\ProjectCards.pdb
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\obj\Debug\ProjectCards.Pages.HomePage.xaml.g.cs
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\MvvmHelpers.dll
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\MvvmHelpers.xml
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\obj\Debug\ProjectCards.Pages.CardAddPage.xaml.g.cs
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\obj\Debug\ProjectCards.dll.mdb
+C:\_\Development\_SRC_\ProjectCards\ProjectCards\ProjectCards\ProjectCards\bin\Debug\ProjectCards.dll.mdb
